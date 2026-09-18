@@ -1,0 +1,49 @@
+- [x] Proceed with the requested Manus 1.6 workflow for the AetherMind rebuild.
+- [x] Define and document the selected visual direction in ideas.md.
+- [x] Produce the AetherMind visual asset system and brand symbol.
+- [x] Implement the responsive AetherMind landing page from the supplied strategy brief.
+- [x] Verify the experience across desktop and mobile, refine the visual presentation, and deliver a checkpoint.
+- [x] Define detailed content models for learning pathways, institution solutions, verified proof points, and path recommendations.
+- [x] Add the dedicated education pathway and institution solution pages.
+- [x] Add a trust section for verified partnerships, accreditations, and outcome proof points.
+- [x] Implement the Find Your Path questionnaire and working lead-capture form.
+- [x] Save a post-extension checkpoint for the added sub-pages, trust section, and Find Your Path workflow.
+- [x] Validate the expanded experience across desktop and mobile, then save a delivery checkpoint.
+- [x] Define content architecture and source requirements for Global Ecole, ecosystem, leadership, partnership, accreditation, university, impact, contact, and case-study pages.
+- [x] Build the Global Ecole home-page feature and detailed hybrid K–12 school page.
+- [x] Add a distinct team route alongside the implemented leadership and key-management experiences.
+- [x] Add dedicated evidence-led university acceptance and university partnership routes without asserting unsupported outcomes or agreements.
+- [ ] Add approved, authentic testimonials once source copy and attribution are supplied; do not fabricate testimonial content.
+- [x] Save a post-expansion delivery checkpoint after the remaining route additions and final verification.
+- [x] Define a context-aware dropdown navigation, purpose-led motion system, and global student visual story.
+- [x] Integrate the supplied approved AetherMind logo in the website header and footer.
+- [x] Generate and integrate original global student imagery representing academic, sports, arts, literature, theatre, and entrepreneurship activity.
+- [x] Implement responsive dropdown navigation and refined motion across key website interactions.
+- [x] Verify the navigation, imagery, brand integration, and motion across desktop and mobile, then save a delivery checkpoint.
+- [x] Save a final checkpoint containing the verified dropdown navigation, approved logo integration, global student imagery, and motion refinements.
+- [x] Add an About Us dropdown with contextual links to organisation, Team, leadership, Global Ecole, and Contact experiences.
+- [x] Validate the new About Us menu across desktop and mobile, then save a navigation-refinement checkpoint.
+- [x] Save a checkpoint containing the validated About Us dropdown refinement.
+- [x] Audit and define a more distinctive AetherMind brand treatment for the header, navigation, and key story sections.
+- [x] Implement refined brand signatures and purposeful animation across the public experience.
+- [x] Verify the enhanced brand experience across desktop and mobile, then save a delivery checkpoint.
+- [x] Save a checkpoint containing the enhanced AetherMind brand signature and motion system.
+- [ ] Verify approved, publishable testimonials and people-profile details before displaying names, quotations, photos, LinkedIn links, or email contacts.
+- [x] Define the leadership, key management, advisory, and global-expertise People Atlas information architecture.
+- [x] Generate and integrate original global learning imagery for K–12, higher education, and corporate learning contexts.
+- [x] Build the source-aware People Atlas and global-expertise experience, with the confirmed public founder profile and profile-ready advisory and team routes.
+- [ ] Integrate approved testimonial content into audience-specific sections and dedicated pages without fabricating reviews.
+- [x] Refine the global menu dropdown structure around learning, organisations, evidence, people, and connection routes.
+- [x] Verify the expanded people, imagery, and navigation experiences across desktop and mobile.
+- [x] Save a checkpoint containing the People Atlas, global learning continuum, and refined navigation experience.
+- [x] Repair the missing Advisory route so every People menu destination resolves to a source-ready page.
+- [x] Define clearly labelled, source-ready placeholders for unapproved people profiles and community voices without invented identities or reviews.
+- [x] Add approval-pending people-profile cards and audience-voice layouts across the People and Evidence routes.
+- [x] Verify the compliant source-ready layouts across desktop and mobile, then save a delivery checkpoint.
+- [x] Audit and repair desktop and mobile navigation behavior, including dropdown interaction and route destinations.
+- [x] Realign the footer and route architecture to remove redundant entry points and improve visitor wayfinding.
+- [x] Verify the refined design and navigation across responsive breakpoints, then recommend the highest-value future pages.
+- [x] Audit the refined public experience for remaining accessibility, usability, and conversion improvements that do not require unverified content.
+- [x] Implement high-confidence public-experience refinements while preserving approval-pending people and testimonial treatments.
+- [x] Validate the refinement pass and save a reviewed checkpoint.
+- [x] Save the reviewed accessibility and conversion refinement checkpoint after the verified build and responsive review.
