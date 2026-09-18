@@ -1,0 +1,43 @@
+/* ============================================================
+   Solution / pathway detail page styles
+   ============================================================ */
+
+/* ----- Trust section ----- */
+.trust-section { background: var(--ink); color: var(--ivory); padding: 130px 0 120px; }
+.trust-heading { align-items: flex-end; display: flex; justify-content: space-between; margin-bottom: 64px; gap: 10%; }
+.trust-heading > div { flex-shrink: 0; }
+.trust-heading h2 { font-size: clamp(43px, 5.2vw, 78px); line-height: 0.94; margin-bottom: 0; }
+.trust-heading > p { color: rgba(244, 241, 232, 0.62); font-size: 14px; line-height: 1.82; margin: 0 0 9px; max-width: 420px; }
+.trust-grid { display: grid; grid-template-columns: repeat(4, 1fr); border-top: 1px solid rgba(244, 241, 232, 0.18); }
+.trust-grid article { border-left: 1px solid rgba(244, 241, 232, 0.14); padding: 24px 22px 28px; }
+.trust-grid article:last-child { border-right: 1px solid rgba(244, 241, 232, 0.14); }
+.trust-grid article > span { color: var(--cobalt); display: block; font-size: 9px; font-weight: 800; letter-spacing: 0.12em; margin-bottom: 18px; text-transform: uppercase; }
+.trust-grid article h3 { color: var(--ivory); font-family: "DM Serif Display", serif; font-size: 20px; font-weight: 400; letter-spacing: -0.025em; line-height: 1.15; margin: 0 0 11px; }
+.trust-grid article p { color: rgba(244, 241, 232, 0.54); font-size: 11px; line-height: 1.65; margin: 0; }
+.trust-source-note { border-top: 1px solid rgba(244, 241, 232, 0.14); color: rgba(244, 241, 232, 0.38); font-size: 10px; letter-spacing: 0.04em; line-height: 1.6; margin-top: 32px; padding-top: 18px; }
+.trust-source-note a { color: rgba(244, 241, 232, 0.55); text-decoration: underline; text-decoration-color: rgba(244, 241, 232, 0.25); }
+.trust-source-note a:hover { color: var(--ivory); }
+
+@media (max-width: 900px) {
+  .trust-heading { display: block; }
+  .trust-heading > p { margin-top: 22px; }
+  .trust-grid { grid-template-columns: 1fr 1fr; }
+  .trust-grid article:nth-child(2) { border-right: 1px solid rgba(244, 241, 232, 0.14); }
+  .trust-grid article:nth-child(3), .trust-grid article:nth-child(4) { border-top: 1px solid rgba(244, 241, 232, 0.14); }
+}
+@media (max-width: 560px) {
+  .trust-section { padding: 80px 0 72px; }
+  .trust-grid { grid-template-columns: 1fr; }
+  .trust-grid article { border-right: 1px solid rgba(244, 241, 232, 0.14) !important; border-top: 1px solid rgba(244, 241, 232, 0.14); }
+  .trust-grid article:first-child { border-top: none; }
+}
+
+/* ----- Global student cards — gradient backgrounds for local dev ----- */
+.global-student-card { background: linear-gradient(135deg, #162035 0%, #1e3455 50%, #111c30 100%); }
+.global-student-card:nth-child(2) { background: linear-gradient(135deg, #1a1030 0%, #2d1c50 50%, #120e25 100%); }
+.global-student-card:nth-child(3) { background: linear-gradient(135deg, #0e1e30 0%, #163048 50%, #0a1520 100%); }
+
+/* ----- Learning continuum cards — gradient backgrounds for local dev ----- */
+.learning-continuum__grid article:nth-child(1) { background: linear-gradient(160deg, #162035, #1e3050) !important; }
+.learning-continuum__grid article:nth-child(2) { background: linear-gradient(160deg, #1a1535, #251c48) !important; }
+.learning-continuum__grid article:nth-child(3) { background: linear-gradient(160deg, #0e2030, #183040) !important; }
